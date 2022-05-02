@@ -8,7 +8,7 @@ That's a solution to a problem that i have, it was to subscribe a new user on a 
 + Set tags to or new user on mailchimp
 ---
 ## Observations 
-+ Video explaining the project [here](https://www.youtube.com/watch?v=IAOOn4WPY10)
++ Video explaining the project [here](https://youtu.be/IAOOn4WPY10)
 + To dowload the packages use NPM install or YARN 
 + To run the app use npm run dev or yarn
 + Don't forget to change the file (.env_example) to (.env )
